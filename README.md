@@ -5,4 +5,4 @@ Frontend beginnar intermediate projects using HTML CSS and JavaScript
 
 1. Starter project
 2. Card exapnding
-3. stepper progress 
+3. stepper progress
